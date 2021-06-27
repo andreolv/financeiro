@@ -27,7 +27,7 @@ function adicionarDespesa()
   
   document.getElementById('despesa').value = "";
   document.getElementById('valor-despesa').value = "";
-
+  document.getElementById('total-despesas').innerHTML = totalDespesas;
 }
 
 function adicionarGanho() 
@@ -55,6 +55,7 @@ function adicionarGanho()
   
   document.getElementById('ganho').value = "";
   document.getElementById('valor-ganho').value = "";
+  document.getElementById('total-ganhos').innerHTML = totalGanhos;
 
 }
 
