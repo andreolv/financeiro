@@ -1,3 +1,3 @@
 # Sistema de controle de finanças
 
-![System Print](/img/system.png)
+![alt text](https://github.com/andreolv/financeiro/blob/master/img/system.PNG)
