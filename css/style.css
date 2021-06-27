@@ -26,10 +26,17 @@ nav {
   display: flex;
   flex-direction: row;
 
+  align-items: center;
+
   margin-top: 10vh;
 }
 
 .tabela{
   display: flex;
   justify-content:center;
+}
+
+#balance{
+  text-align: center;
+  background-color: #e4ee8f;
 }
