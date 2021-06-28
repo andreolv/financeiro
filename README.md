@@ -12,3 +12,8 @@
 - Download de resumo em XLS ou PDF
 - Autenticações com usuários
 - Salvar planos financeiros
+
+## Tecnologias utilizadas
+- HTML
+- CSS
+- Javascript
