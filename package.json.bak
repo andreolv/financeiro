@@ -1,0 +1,22 @@
+{
+  "name": "financeiro",
+  "version": "1.0.0",
+  "description": "sistema financeiro",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreolv/financeiro.git"
+  },
+  "author": "andre e julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreolv/financeiro/issues"
+  },
+  "homepage": "https://github.com/andreolv/financeiro#readme",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
