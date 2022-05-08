@@ -9,34 +9,26 @@ nav {
   display: flex;
   justify-content:center;
   align-items:center;
+  height: 5vh;
 }
 
-.inputs{
-  display: flex;
-  justify-content: space-around;
+main {
   width: 100vw;
+  height: 95vh;
 }
 
-#botao-inserir-despesa, #botao-inserir-ganho{
-  margin-top: 1vh;
-  margin-left: 5vw;
-}
+#area-tabela-registros {
+  width: 100%;
+  height: 50%;
 
-.tabelas{
   display: flex;
   flex-direction: row;
-
+  
+  justify-content: center;
   align-items: center;
-
-  margin-top: 10vh;
 }
 
-.tabela{
-  display: flex;
-  justify-content:center;
-}
-
-#balance{
-  text-align: center;
-  background-color: #e4ee8f;
+#grafico-categorias {
+  width: 100%;
+  height: 50%;
 }
